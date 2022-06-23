@@ -56,11 +56,11 @@ For more information on the technologies that power the Yukki Music Bot, check o
 
 ## 🖇 VPS Deployment
 
-> Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
+> Checkout [Docs](https://notreallyshikhar.gitbook.io//deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
 
 
 ```console
-shikhar@MacBook~ $ git clone https://github.com/TeamYukki/YukkiMusicBot
+shikhar@MacBook~ $ git clone https://github.com/omkara011/YukkiMusicBot
 shikhar@MacBook~ $ cd YukkiMusicBot
 shikhar@MacBook~ $ sudo bash setup
 ```
